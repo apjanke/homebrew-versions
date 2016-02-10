@@ -3,6 +3,7 @@ class Astyle204 < Formula
   homepage "http://astyle.sourceforge.net/"
   url "https://downloads.sourceforge.net/project/astyle/astyle/astyle%202.04/astyle_2.04_macosx.tar.gz"
   sha256 "e0ba90723463172fd8a063897092284993eeebb87c63cf26ee36f555b0d89368"
+  version "2.04.01-dummy"
 
   bottle do
     cellar :any
